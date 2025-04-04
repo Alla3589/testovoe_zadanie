@@ -43,11 +43,6 @@ display: grid;
 grid-template-columns: repeat(5, 1fr);
 gap: 20px;
 }
-.footer {
-background-color: black;
-height: 200px;
-margin-top: 70px;
-}
 .menu {
 display: flex;
 padding-top: 34px;
@@ -524,55 +519,10 @@ margin-left: 10px;
 .manga_list {
 margin-bottom: 40px;
 }
-.footer_end {
-display: flex;
+.footer_img {
+margin-left: -100px;
+margin-top: 50px;
 }
-.footer_h3 {
-font-family: EuropaNuova-Bold;
-font-weight: 400;
-font-size: 20px;
-line-height: 40px;
-letter-spacing: 0%;
-width: 342px;
-height: 40px;
-color: #FFFFFF;
-padding-top: 68px;
-margin-left: -60px;
-}
-.footer_span {
-font-family: Europa-Regular;
-font-weight: 400;
-font-size: 20px;
-line-height: 40px;
-letter-spacing: 0%;
-width: 342px;
-height: 40px;
-color: #FFFFFF;
-}
-.end-icon {
-display: flex;
-margin-left: 800px;
-margin-top: 80px;
-background-color: #E5E5E5;
-}
-.icons-1 {
-margin-right: 30px;
-}
-.icon_end {
-width: 20px;
-height: 10px;
-}
-.end_h5 {
-color: #FFFFFF;
-font-family: Europa-Regular;
-font-weight: 400;
-font-size: 10px;
-line-height: 40px;
-letter-spacing: 0%;
-width: 32px;
-height: 15px;
-}
-
 
 .read-more, .back-to-home {
     display: inline-block;
@@ -585,4 +535,9 @@ height: 15px;
 
 .read-more:hover, .back-to-home:hover {
     background-color: #0056b3;
+}
+.header-1 {
+background-image: url(../image/Rectangle\ 13124.png);
+width: 1600px;
+height: 800px;
 }
