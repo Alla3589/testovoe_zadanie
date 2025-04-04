@@ -541,3 +541,164 @@ background-image: url(../image/Rectangle\ 13124.png);
 width: 1600px;
 height: 800px;
 }
+.header_menu {
+display: flex;
+margin-top: 20px;
+}
+.menu_lang {
+display: flex;
+
+}
+.lang {
+margin-left: -40px;
+}
+.email {
+width: 216px;
+height: 49;
+top: 2.5px;
+    
+}
+.shape_image {
+width: 135px;
+height: 29px;
+margin-top: 5px;
+}
+.nav {
+margin-top: 5px;
+}
+.home {
+display: flex;
+list-style: none;
+margin-left: -40px;
+}
+.li_home {
+color: #FFFFFF;
+margin-right: 10px;
+}
+.time {
+margin-top: 300px;
+margin-left: 160px;
+}
+.time_h1 {
+font-family: Europa-Bold;
+font-weight: 700;
+font-size: 54px;
+line-height: 103%;
+letter-spacing: 0.5px;
+vertical-align: middle;
+ text-transform: uppercase;
+ width: 1084px;
+ height: 132px;
+color: #FFFFFF;
+ 
+}
+.time_h2 {
+font-family: Europa-Regular;
+font-weight: 400;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: -2.5%;
+vertical-align: middle;
+width: 1023px;
+height: 98px;
+color: #FFFFFF;
+padding-top: 10px;
+}
+.time_team {
+display: flex;
+margin-left: 280px;
+margin-top: 30px;
+}
+.time_h3 {
+font-family: Europa-Regular;
+font-weight: 400;
+font-size: 15px;
+line-height: 40px;
+letter-spacing: 0%;
+width: 107px;
+height: 40px;
+color: #FFFFFF;
+white-space: nowrap;
+
+}
+.time_icon {
+width: 20px;
+height: 1px;
+background: #FFFFFF;
+margin-top: 20px;
+margin-left: -10px;
+margin-right: 20px;
+}
+.time_icon_icons {
+margin-right: 5px;
+}
+.init_left {
+margin-top: 70px;
+margin-left: 250px;
+}
+.blog-init {
+display: grid;
+grid-template-columns: repeat(2,1fr);
+}
+.init_h4 {
+font-family: Europa-Regular;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0%;
+width: 39px;
+height: 44px;
+   
+}
+
+.init_p {
+font-family: Europa-Regular;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+letter-spacing: 0%;
+width: 780px;
+height: 337px;
+margin-left: -350px;
+padding-top: 45px;
+}
+.init_h2 {
+font-family: Europa-Bold;
+font-weight: 700;
+font-size: 28px;
+line-height: 100%;
+letter-spacing: 0.5px;
+text-transform: uppercase;
+width: 588px;
+height: 192px;
+margin-left: -270px;
+padding-top: 140px;
+}
+.init_h3 {
+font-family: Europa-Bold;
+font-weight: 700;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0.5px;
+text-transform: uppercase;
+width: 448px;
+height: 53px;
+white-space: nowrap;
+margin-left: -350px;
+padding-top: 25px;
+}
+
+.init_nav {
+margin-top: -110px;
+margin-left: -350px;
+}
+.init_li {
+font-family: Europa-Regular;
+font-weight: 400;
+font-size: 18px;
+line-height: 33px;
+letter-spacing: 0%;
+width: 671px;
+height: 45px;
+}
+
