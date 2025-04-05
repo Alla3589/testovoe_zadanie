@@ -50,12 +50,11 @@ padding-top: 34px;
 }
 .image {
 display: flex;
-
+margin-top: -10px;
 }
 .icon {
 width: 216px;
 height: 49px;
-margin-top: -10px;
 }
 .icons {
 width: 105px;
@@ -701,4 +700,45 @@ letter-spacing: 0%;
 width: 671px;
 height: 45px;
 }
+.switcher_btn {
+background-color: #6C757D;
+}
 
+.li_home_1 {
+font-family: Europa-Bold;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 37px;
+height: 18px;
+color: #FFFFFF;
+
+}
+.li_home_2 {
+font-family: Europa-Bold;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+width: 48px;
+height: 18px;
+color: #FFFFFF;
+}
+.home_icon {
+    width: 16px;
+    height: 16px;
+    
+}
+.li_home_3 {
+font-family: Europa-Bold;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+width:348px ;
+height: 18px;
+color: #FFFFFF;
+white-space: nowrap;
+    
+}
